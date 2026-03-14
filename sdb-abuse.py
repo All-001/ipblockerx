@@ -16,7 +16,7 @@ url = 'https://api.abuseipdb.com/api/v2/check'
 
 headers = {
     'Accept': 'application/json',
-    'Key': 'b1ba681a88355b464973b2d3417ab9a26131c56e9135d7955ca9f597c37410b8008f689d8d198eae'
+    'Key': ''
 }
 
 # Regular expression to match IPv4 addresses at the start of each log line
