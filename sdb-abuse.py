@@ -23,7 +23,7 @@ headers = {
 IP_REGEX = re.compile(r'^(\d{1,3}(?:\.\d{1,3}){3})')
 
 # accesslog
-logfile = "/var/log/ispconfig/httpd/hetgezondheidscentrum.nl/access.log"
+logfile = "/var/log/ispconfig/httpd/het/access.log"
 database = db.getDb("ipabusedb.json")
 
 def main():
